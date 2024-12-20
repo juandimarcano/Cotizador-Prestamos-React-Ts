@@ -18,24 +18,24 @@
 
 1. Clona el repositorio:
 
-   ```bash
-   git clone  https://github.com/juandimarcano/Cotizador-Prestamos-React-Ts
-   ```
+    ```bash
+    git clone https://github.com/juandimarcano/Cotizador-Prestamos-React-Ts
+    ```
+
 2. Accede al proyecto:
 
-   ```bash
-  cd Cotizador-Prestamos-React-Ts
-   ```
+    ```bash
+    cd Cotizador-Prestamos-React-Ts
+    ```
 
 3. Instala las dependencias:
 
-   ```bash
-   npm install
-   ```
+    ```bash
+    npm install
+    ```
 
 4. Inicia el proyecto:
 
-   ```bash
-   npm run dev
-   ```
-
+    ```bash
+    npm run dev
+    ```
